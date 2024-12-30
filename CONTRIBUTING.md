@@ -7,3 +7,6 @@ We welcome contributions to the Smartwatch 2048 AI Assistant project! Please fol
 5. **Reference** related issues or features in your pull request.
 
 ---
+## Code of Conduct
+
+Please adhere to the Code of Conduct outlined in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).

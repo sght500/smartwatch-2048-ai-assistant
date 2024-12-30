@@ -14,6 +14,8 @@ After researching algorithms to win the 2048 game, I came across many involving 
 - Calculate the average score for each possible first move.
 - Suggest the move with the highest average score.
 
+<img src="img/my-smartwatch-with-3888-score.jpg" width="300">
+
 Thanks to this algorithm, I achieved my current game high score of **3888** on my smartwatch!
 
 ### How to Use This Smartwatch 2048 AI Assistant

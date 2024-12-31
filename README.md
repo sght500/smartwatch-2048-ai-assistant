@@ -27,7 +27,7 @@ This assistant can be used to play the 2048 game on any device, like a smartwatc
 Install the necessary Python packages by running:
 
 ```
-pip install --no-cache-dir -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Features

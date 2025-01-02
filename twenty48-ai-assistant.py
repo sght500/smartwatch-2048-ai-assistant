@@ -2,7 +2,7 @@
 Script Name:    twenty48-ai-assistant.py
 Description:    An AI Assistant to help you win the 2048 game in your smartwatch.
 Author:         Mario Montoya <marioSGHT500@gmail.com>
-Date:           2024-06-12
+Date:           2024-12-30
 
 Version History:
 - v0.1 (2024-12-30): It creates the Tw48AiAssistant class and uses niceGUI to use the class.
